@@ -1,0 +1,21 @@
+name: KitsniEddie
+version: '1.0-SNAPSHOT'
+main: org.eddie.kitsniEddie.KitsniEddie
+api-version: '1.21'
+commands:
+  eddiekits:
+    description: Open the kits GUI
+    usage: /eddiekits
+  eddiekitsadmin:
+    description: Admin command to edit kits
+    usage: /eddiekitsadmin <category>
+    permission: eddiekitsadmin.use
+  eddiekitremove:
+    description: Removes a kit category
+    usage: /eddiekitremove <category>
+    permission: eddiekitremove.use
+  eddiechangeitem:
+    description: Change the display icon for a kit category
+    usage: /eddiechangeitem <category>
+    permission: eddiechangeitem.use
+ 

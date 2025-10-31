@@ -1,0 +1,7 @@
+org\eddie\kitsniEddie\Command\EddieKitsAdminCommand.class
+org\eddie\kitsniEddie\Command\EddieKitsCommand.class
+org\eddie\kitsniEddie\KitsniEddie.class
+org\eddie\kitsniEddie\Command\EddieKitRemoverCommand.class
+org\eddie\kitsniEddie\List\InventoryListeners.class
+org\eddie\kitsniEddie\List\KitManager.class
+org\eddie\kitsniEddie\Command\EddieChangeItemCommand.class
